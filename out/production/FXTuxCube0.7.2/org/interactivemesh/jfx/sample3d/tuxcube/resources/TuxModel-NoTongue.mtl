@@ -1,0 +1,50 @@
+# Object = TuxModel-NoTongue
+# Date = 2013/06/21
+# Creator = Sun Microsystems, Inc.
+# License = Berkeley Software Distribution (BSD), see LICENSE-TuxModel-obj.txt
+# Contributor = InteractiveMesh e.K. http://www.InteractiveMesh.com/impressum.html
+# Generator = InteractiveMesh e.K.
+newmtl TuxFeetAppear
+Ka 0.0 0.0 0.0
+Kd 0.749 0.5647 0.17255
+Ke 0.251 0.1843 0.05882
+Ks 0.5412 0.5412 0.5412
+Ns 126.9967
+illum 2 
+
+newmtl TuxEyesAppear
+Ka 0.0 0.0 0.0
+Kd 0.7843 0.7843 0.7843
+Ks 0.2824 0.2824 0.2824
+Ns 64.5
+illum 2 
+
+newmtl TuxBodyAppear
+Ka 0.0 0.0 0.0
+Kd 0.2471 0.2471 0.2471
+Ks 0.3137 0.3137 0.3137
+Ns 7.35
+illum 2 
+
+newmtl TuxMouthAppear
+Ka 0.0 0.0 0.0
+Kd 0.749 0.5647 0.17255
+Ke 0.251 0.1843 0.05882
+Ks 0.5412 0.5412 0.5412
+Ns 32.75
+illum 2 
+
+newmtl TuxPupilsAppear
+Ka 0.0 0.0 0.0
+Kd 0.3137 0.3137 0.3137
+Ks 0.3451 0.3451 0.3451
+Ns 64.5
+illum 2 
+
+newmtl TuxFrontAppear
+Ka 0.1255 0.1255 0.1255
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+illum 2 
+

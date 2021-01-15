@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fxTuxCube">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fxTuxCube.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

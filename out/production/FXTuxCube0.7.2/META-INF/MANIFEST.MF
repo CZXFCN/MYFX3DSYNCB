@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jimObjModelImporterJFX.jar
+Main-Class: org.interactivemesh.jfx.sample3d.tuxcube.FXTuxCube
+

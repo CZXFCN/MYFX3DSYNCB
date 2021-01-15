@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="FXTuxCube0.7.2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FXTuxCube0_7_2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FXTuxCube0.7.2.jar">
+        <element id="module-output" name="FXTuxCube0.7.2" />
+        <element id="library" level="project" name="fxTuxCube" />
+        <element id="library" level="project" name="jimObjModelImporterJFX" />
+        <element id="library" level="project" name="jimObjModelImporterJFX (2)" />
+      </element>
+      <element id="library" level="project" name="jimObjModelImporterJFX (2)" />
+      <element id="library" level="project" name="fxTuxCube" />
+      <element id="library" level="project" name="jimObjModelImporterJFX" />
+    </root>
+  </artifact>
+</component>

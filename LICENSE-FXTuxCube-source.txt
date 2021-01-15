@@ -1,0 +1,22 @@
+
+/**
+ * org.interactivemesh.jfx.sample3d.tuxcube.FXTuxCube.java
+ * org.interactivemesh.jfx.sample3d.tuxcube.FXTuxCubeSubScene.java
+ *
+ * Version: 0.7.1
+ * Date: 2013/10/31
+ * 
+ * Author:
+ * August Lammersdorf, InteractiveMesh e.K.
+ * Hauptstraﬂe 28d, 85737 Ismaning
+ * Germany / Munich Area
+ * www.InteractiveMesh.com/org
+ *
+ * Please create your own implementation.
+ * This source code is provided "AS IS", without warranty of any kind.
+ * You are allowed to copy and use all lines you like of this source code
+ * without any copyright notice,
+ * but you may not modify, compile, or distribute this 'FXTuxCube.java' and
+ * 'FXTuxCubeSubScene.java'.
+ *
+ */
